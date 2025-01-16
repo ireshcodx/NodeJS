@@ -1,0 +1,439 @@
+2025-01-13T10:03:57.966Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "courier_id" is required
+2025-01-13T10:04:19.159Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "createdBy" is required
+2025-01-13T10:04:41.787Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:04:41.787Z [error]: Error creating customer: Validation error
+2025-01-13T10:05:40.982Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:05:40.984Z [error]: Error creating customer: Validation error
+2025-01-13T10:07:09.111Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:07:09.112Z [error]: Error creating customer: Validation error
+2025-01-13T10:08:27.244Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "email" must be a valid email
+2025-01-13T10:08:40.604Z [error]: [customerService.js] Error creating user: notNull Violation: Users.password cannot be null
+2025-01-13T10:08:40.604Z [error]: Error creating customer: notNull Violation: Users.password cannot be null
+2025-01-13T10:09:04.203Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:09:04.203Z [error]: Error creating customer: Validation error
+2025-01-13T10:12:14.017Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:12:14.018Z [error]: Error creating customer: Validation error
+2025-01-13T10:14:38.519Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:14:38.520Z [error]: Error creating customer: Validation error
+2025-01-13T10:15:16.547Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "password" is not allowed
+2025-01-13T10:15:29.785Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:15:29.785Z [error]: Error creating customer: Validation error
+2025-01-13T10:16:31.155Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "createdBy" is required
+2025-01-13T10:17:25.920Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:17:25.921Z [error]: Error creating customer: Validation error
+2025-01-13T10:18:18.469Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:18:18.469Z [error]: Error creating customer: Validation error
+2025-01-13T10:18:49.476Z [error]: [customerService.js] Error creating user: notNull Violation: Users.password cannot be null
+2025-01-13T10:18:49.477Z [error]: Error creating customer: notNull Violation: Users.password cannot be null
+2025-01-13T10:19:56.912Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "password" is not allowed
+2025-01-13T10:20:21.510Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:20:21.511Z [error]: Error creating customer: Validation error
+2025-01-13T10:20:55.241Z [info]: [customer.Controller.js] - createCustomer - Created new customer with ID 18
+2025-01-13T10:23:16.555Z [info]: [customer.Controller.js] - createCustomer - Created new customer with ID 19
+2025-01-13T10:57:38.515Z [info]: [customer.Controller.js] - createCustomer - Created new customer with ID 20
+2025-01-13T11:06:53.047Z [info]: [packageService.js] - getAllPackages - Found 5 packages
+2025-01-13T11:08:11.160Z [info]: [customer.Controller.js] - getAllCustomers - Found 8 customers
+2025-01-13T12:36:16.807Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:37:31.722Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:38:03.283Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:39:05.590Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:39:45.556Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:40:15.771Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:40:33.076Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:41:07.995Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:41:56.192Z [info]: User madhav@gmail.com logged in successfully
+2025-01-13T13:27:45.583Z [info]: User madhav@gmail.com logged in successfully
+2025-01-13T13:28:01.836Z [warn]: [verifyToken.js] Authorization header missing
+2025-01-13T13:28:19.671Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-13T13:28:19.672Z [error]: [verifyToken.js] Token verification failed
+2025-01-13T13:28:53.046Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-13T13:28:53.048Z [info]: [verifyToken.js] Token verified successfully
+2025-01-13T13:28:53.049Z [error]: [verifyToken.js] Token verification failed
+2025-01-13T13:29:09.476Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-13T13:29:09.479Z [info]: [verifyToken.js] Token verified successfully
+2025-01-13T13:29:09.483Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-13T13:29:09.484Z [info]: Fetched all couriers
+2025-01-13T13:33:42.026Z [info]: User madhav@gmail.com logged in successfully
+2025-01-13T13:33:49.880Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-13T13:33:49.880Z [error]: [verifyToken.js] Token verification failed
+2025-01-13T13:33:57.890Z [info]: User madhav@gmail.com logged in successfully
+2025-01-13T13:34:01.269Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-13T13:34:01.270Z [error]: [verifyToken.js] Token verification failed
+2025-01-13T13:34:16.444Z [info]: User madhav@gmail.com logged in successfully
+2025-01-13T13:34:19.762Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-13T13:34:19.763Z [info]: [verifyToken.js] Token verified successfully
+2025-01-13T13:34:19.765Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-13T13:34:19.766Z [info]: Fetched all couriers
+2025-01-13T13:34:37.816Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-13T13:34:37.817Z [info]: [verifyToken.js] Token verified successfully
+2025-01-13T13:34:37.821Z [info]: Fetched courier by ID: 1
+2025-01-14T05:09:14.432Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:09:14.435Z [error]: [verifyToken.js] Token verification failed
+2025-01-14T05:09:34.276Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:09:42.084Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:09:42.085Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:09:42.089Z [info]: [customer.Controller.js] - getAllCustomers - Found 8 customers
+2025-01-14T05:23:58.038Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:25:12.766Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:25:28.284Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:26:37.628Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:26:50.572Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:26:54.576Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:26:54.577Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:26:54.577Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:26:54.579Z [info]: [customer.Controller.js] - getAllCustomers - Found 8 customers
+2025-01-14T05:27:34.028Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:28:43.157Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:28:49.821Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:28:49.822Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:28:49.823Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:28:49.825Z [info]: [customer.Controller.js] - getAllCustomers - Found 8 customers
+2025-01-14T05:34:34.643Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:34:39.657Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:34:39.658Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:34:39.658Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:34:39.659Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T05:34:45.016Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:34:45.017Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:34:45.017Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:34:45.020Z [info]: Fetched courier by ID: 1
+2025-01-14T05:41:23.432Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:41:26.862Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:41:26.864Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:41:26.864Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:41:26.864Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T05:41:32.050Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:41:32.051Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:41:32.051Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:41:32.053Z [info]: [customer.Controller.js] - getAllCustomers - Found 8 customers
+2025-01-14T05:41:35.368Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:41:35.369Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:41:35.369Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:41:35.371Z [info]: [customer.Controller.js] - getCustomerById - Found customer with ID 2
+2025-01-14T05:41:42.184Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:41:42.185Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:41:42.185Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:41:42.187Z [info]: [customer.Controller.js] - getCustomerById - Found customer with ID 2
+2025-01-14T05:42:11.950Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T05:43:27.062Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:43:27.063Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:43:27.063Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T05:43:27.063Z [info]: [checkUserRole.js] User has sufficient permissions
+2025-01-14T05:43:27.151Z [info]: [customer.Controller.js] - createCustomer - Created new customer with ID 21
+2025-01-14T05:44:09.095Z [info]: User vaishnavi@gmail.com logged in successfully
+2025-01-14T05:44:12.886Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:44:12.887Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:44:12.887Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T05:44:12.889Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-14T05:44:12.889Z [info]: Fetched all couriers
+2025-01-14T05:44:18.639Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T05:44:18.640Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T05:44:18.640Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T05:44:18.640Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T06:19:34.477Z [info]: User vaishnavi@gmail.com logged in successfully
+2025-01-14T06:20:03.864Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T06:20:03.865Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T06:20:03.866Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T06:20:03.870Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-14T06:20:03.870Z [info]: Fetched all couriers
+2025-01-14T06:20:38.569Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T06:20:38.570Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T06:20:38.570Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T06:20:38.578Z [info]: [courierService.js] - getAllCouriersWithCustomers - Found 6 couriers
+2025-01-14T06:20:38.578Z [info]: Fetched all couriers with their created customers
+2025-01-14T06:21:49.417Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T06:21:49.418Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T06:21:49.418Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T06:21:49.418Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T06:23:08.712Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T06:23:08.712Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T06:23:08.713Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T06:23:08.713Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T06:24:27.903Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:24:45.182Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T06:24:45.184Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T06:24:45.184Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T06:24:45.193Z [info]: [packageService.js] - getAllPackages - Found 5 packages
+2025-01-14T06:24:54.156Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T06:24:54.157Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T06:24:54.157Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T06:25:32.319Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T06:25:32.321Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T06:25:32.322Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T06:27:10.010Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:30:35.067Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:31:14.562Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:31:59.256Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:34:11.587Z [info]: User vaishnavi@gmail.com logged in successfully
+2025-01-14T07:24:20.182Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T07:24:20.183Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T07:24:20.183Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T07:24:20.184Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T07:25:20.017Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:25:38.932Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T07:25:49.852Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:28:46.395Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:29:06.660Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:29:39.235Z [error]: Login failed: User with email madhav@gmail.com not found
+2025-01-14T07:30:19.560Z [error]: Login failed: User with email madhav@gmail.com not found
+2025-01-14T07:30:49.664Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:31:18.092Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:36:47.773Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:36:56.031Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T07:36:56.033Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T07:36:56.033Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T07:36:56.036Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-14T07:36:56.036Z [info]: Fetched all couriers
+2025-01-14T07:37:50.361Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:41:45.296Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:41:45.297Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:41:50.804Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T07:41:50.807Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T07:41:50.807Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T07:41:50.809Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-14T07:41:50.809Z [info]: Fetched all couriers
+2025-01-14T07:42:56.648Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:42:56.648Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:43:10.952Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T07:43:10.953Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T07:43:10.953Z [info]: [verifyToken.js] Valid User in token: 8
+2025-01-14T07:43:10.956Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-14T07:43:10.956Z [info]: Fetched all couriers
+2025-01-14T07:44:09.942Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:44:09.943Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:45:44.277Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:45:44.278Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:45:49.105Z [warn]: [verifyToken.js] Authorization header missing
+2025-01-14T07:47:33.988Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:47:33.989Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:48:21.844Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:48:21.845Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:49:19.994Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:49:19.995Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:52:08.003Z [warn]: [verifyToken.js] Authorization header missing
+2025-01-14T07:52:51.789Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:52:51.790Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:54:57.276Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:54:57.278Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:55:17.052Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:55:17.053Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:55:33.300Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:55:33.301Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:55:54.693Z [info]: User vaishnavi@gmail.com logged in successfully
+2025-01-14T07:56:19.802Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:56:19.803Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:57:06.801Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:57:06.801Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:59:14.885Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:59:14.886Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:59:33.345Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:59:33.346Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:59:59.889Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T07:59:59.890Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:00:02.864Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:00:02.864Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:00:14.578Z [error]: [logInController.js] Invalid input "password" is required
+2025-01-14T08:00:29.656Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:00:29.656Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:00:54.001Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:00:54.002Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:02:14.340Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:02:14.342Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:02:14.342Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:02:14.346Z [info]: [courierService.js] - getAllCouriers - Found 6 couriers
+2025-01-14T08:02:14.346Z [info]: Fetched all couriers
+2025-01-14T08:04:00.641Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:04:00.641Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:04:00.641Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:04:00.642Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T08:04:12.221Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:04:12.222Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:04:12.222Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:04:12.222Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T08:04:22.580Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:04:22.580Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:04:22.580Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:04:22.580Z [warn]: [checkUserRole.js] User with role 0 is not allowed to update
+2025-01-14T08:04:36.420Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:04:36.420Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:04:36.420Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:04:36.423Z [info]: [customer.Controller.js] - getAllCustomers - Found 9 customers
+2025-01-14T08:07:40.664Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:07:40.666Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:10:45.005Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:10:45.009Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:10:45.009Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:10:45.031Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:10:45.031Z [error]: Error creating customer: Validation error
+2025-01-14T08:13:47.464Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:13:47.466Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:13:47.466Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:13:47.489Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:13:47.490Z [error]: Error creating customer: Validation error
+2025-01-14T08:15:24.139Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:15:24.142Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:15:24.142Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:15:24.147Z [error]: [customerService.js] Error creating customer: Customer.create is not a function
+2025-01-14T08:15:24.148Z [error]: Error creating customer: Customer.create is not a function
+2025-01-14T08:16:12.467Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:16:12.470Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:16:12.470Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:16:12.493Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:16:12.493Z [error]: Error creating customer: Validation error
+2025-01-14T08:17:02.008Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T08:17:02.011Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T08:17:02.011Z [info]: [verifyToken.js] Valid User in token: 9
+2025-01-14T08:17:02.034Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:17:02.035Z [error]: Error creating customer: Validation error
+2025-01-14T08:20:14.541Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:20:14.542Z [error]: Error creating customer: Validation error
+2025-01-14T08:20:45.966Z [info]: [customer.Controller.js] - createCustomer - Created new customer with ID 27
+2025-01-14T08:21:21.748Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T10:26:43.125Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:26:43.128Z [error]: [verifyToken.js] Token verification failed
+2025-01-14T10:26:48.606Z [info]: User madhav@gmail.com logged in successfully
+2025-01-14T10:26:54.804Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:26:54.804Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:26:54.805Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:26:54.810Z [info]: [courierService.js] - getAllCouriersWithCustomers - Found 6 couriers
+2025-01-14T10:26:54.810Z [info]: Fetched all couriers with their created customers
+2025-01-14T10:28:25.530Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:28:25.531Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:28:25.531Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:28:25.535Z [info]: [courierService.js] - getAllCouriersWithCustomers - Found 6 couriers
+2025-01-14T10:28:25.535Z [info]: Fetched all couriers with their created customers
+2025-01-14T10:29:49.016Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:29:49.016Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:29:49.017Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:29:49.020Z [info]: [courierService.js] - getAllCouriersWithCustomers - Found 6 couriers
+2025-01-14T10:29:49.020Z [info]: Fetched all couriers with their created customers
+2025-01-14T10:39:14.251Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:39:14.254Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:39:14.254Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:39:14.263Z [error]: [courierService.js] Error fetching couriers with customers: puppeteer is not defined
+2025-01-14T10:39:14.263Z [error]: Error fetching couriers with customers: puppeteer is not defined
+2025-01-14T10:40:24.350Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:40:24.353Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:40:24.353Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:40:24.716Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated at /home/ireshg/Iresh/NodeJS/JoinsMySQL/services/couriers_report.pdf
+2025-01-14T10:40:24.716Z [info]: Fetched all couriers with their created customers
+2025-01-14T10:49:07.818Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:49:07.822Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:49:07.823Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:49:08.290Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T10:51:02.547Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:51:02.550Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:51:02.551Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:51:02.960Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T10:52:14.483Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T10:52:14.485Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T10:52:14.486Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T10:52:14.956Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T11:02:51.538Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T11:02:51.539Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T11:02:51.539Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T11:02:51.935Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T11:04:14.915Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T11:04:14.920Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T11:04:14.920Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T11:04:15.437Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T11:07:30.519Z [info]: [verifyToken.js] Token extracted successfully
+2025-01-14T11:07:30.522Z [info]: [verifyToken.js] Token verified successfully
+2025-01-14T11:07:30.522Z [info]: [verifyToken.js] Valid User in token: 10
+2025-01-14T11:07:30.927Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T11:09:39.405Z [warn]: [verifyToken.js] Authorization header missing
+2025-01-14T11:10:48.123Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T11:46:42.186Z [error]: [courierService.js] Error fetching couriers with customers: browser is not defined
+2025-01-14T11:47:27.155Z [error]: [courierService.js] Error fetching couriers with customers: page.setContent is not a function
+2025-01-14T11:47:40.841Z [error]: [courierService.js] Error fetching couriers with customers: browser.connected is not a function
+2025-01-14T11:48:03.609Z [error]: [courierService.js] Error fetching couriers with customers: page.setContent is not a function
+2025-01-14T11:50:45.598Z [error]: [courierService.js] Error fetching couriers with customers: page.setContent is not a function
+2025-01-14T11:51:02.615Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T11:53:13.608Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T11:53:21.659Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:18:38.565Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:18:38.566Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:21:09.341Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:21:09.341Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:30:14.021Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:30:14.022Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:35:43.597Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:35:43.597Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:36:25.328Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:36:25.329Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:37:08.308Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:37:08.309Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:41:49.669Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:41:49.670Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:42:00.378Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:42:00.378Z [info]: [courierController.js] PDF generated successfully
+2025-01-14T12:42:00.387Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-14T12:42:00.387Z [info]: [courierController.js] PDF generated successfully
+2025-01-15T05:12:50.659Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-15T05:12:50.660Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:15:32.778Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:15:32.779Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:18:07.631Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:18:07.632Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:19:32.477Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:19:32.477Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:27:16.950Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:27:16.951Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:35:51.892Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:35:51.892Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:37:10.748Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:37:10.749Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:38:44.310Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:38:44.311Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:39:27.732Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:39:27.734Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:39:28.045Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:39:28.046Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:39:28.311Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:39:28.316Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:39:28.672Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:39:28.673Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:39:28.845Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:39:28.846Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:39:29.000Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:39:29.000Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:39:29.050Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:39:29.050Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:40:52.589Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:40:52.590Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:41:20.263Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:41:20.264Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:51:00.056Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:51:00.056Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:52:20.084Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:52:20.086Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:53:50.251Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:53:50.252Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T05:57:30.603Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T05:57:30.604Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T06:06:35.147Z [error]: [courierService.js] Error fetching couriers with customers: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:06:35.148Z [error]: Error generating PDF report: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:11:52.549Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T06:11:52.550Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T06:18:48.624Z [error]: [courierService.js] Error fetching couriers with customers: Package is not defined
+2025-01-16T06:18:48.626Z [error]: Error generating PDF report: Package is not defined
+2025-01-16T06:19:03.551Z [error]: [courierService.js] Error fetching couriers with customers: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:19:03.553Z [error]: Error generating PDF report: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:22:37.061Z [error]: [courierService.js] Error fetching couriers with customers: sequelize is not defined
+2025-01-16T06:22:37.063Z [error]: Error generating PDF report: sequelize is not defined
+2025-01-16T06:24:02.728Z [error]: [courierService.js] Error fetching couriers with customers: Cannot read properties of undefined (reading 'Courier')
+2025-01-16T06:24:02.730Z [error]: Error generating PDF report: Cannot read properties of undefined (reading 'Courier')
+2025-01-16T06:26:02.466Z [error]: [courierService.js] Error fetching couriers with customers: sequelize is not defined
+2025-01-16T06:26:02.468Z [error]: Error generating PDF report: sequelize is not defined
+2025-01-16T06:26:04.818Z [error]: [courierService.js] Error fetching couriers with customers: sequelize is not defined
+2025-01-16T06:26:04.819Z [error]: Error generating PDF report: sequelize is not defined
+2025-01-16T06:26:17.259Z [error]: [courierService.js] Error fetching couriers with customers: Cannot read properties of undefined (reading 'findAll')
+2025-01-16T06:26:17.260Z [error]: Error generating PDF report: Cannot read properties of undefined (reading 'findAll')
+2025-01-16T06:26:56.815Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T06:26:56.816Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T06:27:42.776Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T06:27:42.777Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T06:27:54.935Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T06:27:54.936Z [info]: [courierController.js] PDF generated successfully
+2025-01-16T06:28:21.798Z [info]: [courierService.js] - getAllCouriersWithCustomers - PDF generated successfully
+2025-01-16T06:28:21.798Z [info]: [courierController.js] PDF generated successfully

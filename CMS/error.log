@@ -1,0 +1,135 @@
+2025-01-13T10:03:57.966Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "courier_id" is required
+2025-01-13T10:04:19.159Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "createdBy" is required
+2025-01-13T10:04:41.787Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:04:41.787Z [error]: Error creating customer: Validation error
+2025-01-13T10:05:40.982Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:05:40.984Z [error]: Error creating customer: Validation error
+2025-01-13T10:07:09.111Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:07:09.112Z [error]: Error creating customer: Validation error
+2025-01-13T10:08:27.244Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "email" must be a valid email
+2025-01-13T10:08:40.604Z [error]: [customerService.js] Error creating user: notNull Violation: Users.password cannot be null
+2025-01-13T10:08:40.604Z [error]: Error creating customer: notNull Violation: Users.password cannot be null
+2025-01-13T10:09:04.203Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:09:04.203Z [error]: Error creating customer: Validation error
+2025-01-13T10:12:14.017Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:12:14.018Z [error]: Error creating customer: Validation error
+2025-01-13T10:14:38.519Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:14:38.520Z [error]: Error creating customer: Validation error
+2025-01-13T10:15:16.547Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "password" is not allowed
+2025-01-13T10:15:29.785Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:15:29.785Z [error]: Error creating customer: Validation error
+2025-01-13T10:16:31.155Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "createdBy" is required
+2025-01-13T10:17:25.920Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:17:25.921Z [error]: Error creating customer: Validation error
+2025-01-13T10:18:18.469Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:18:18.469Z [error]: Error creating customer: Validation error
+2025-01-13T10:18:49.476Z [error]: [customerService.js] Error creating user: notNull Violation: Users.password cannot be null
+2025-01-13T10:18:49.477Z [error]: Error creating customer: notNull Violation: Users.password cannot be null
+2025-01-13T10:19:56.912Z [error]: [customer.Controller.js] - createCustomer - Invalid customer data: "password" is not allowed
+2025-01-13T10:20:21.510Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-13T10:20:21.511Z [error]: Error creating customer: Validation error
+2025-01-13T12:36:16.807Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:37:31.722Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:38:03.283Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:39:05.590Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:39:45.556Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:40:15.771Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:40:33.076Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T12:41:07.995Z [error]: Login failed: Incorrect password for email iresh@gmail.com
+2025-01-13T13:28:19.672Z [error]: [verifyToken.js] Token verification failed
+2025-01-13T13:28:53.049Z [error]: [verifyToken.js] Token verification failed
+2025-01-13T13:33:49.880Z [error]: [verifyToken.js] Token verification failed
+2025-01-13T13:34:01.270Z [error]: [verifyToken.js] Token verification failed
+2025-01-14T05:09:14.435Z [error]: [verifyToken.js] Token verification failed
+2025-01-14T06:24:27.903Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:27:10.010Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:30:35.067Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:31:14.562Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T06:31:59.256Z [error]: Login failed: User with email vaishnavi@gmail.com not found
+2025-01-14T07:25:20.017Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:25:49.852Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:28:46.395Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:29:06.660Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:29:39.235Z [error]: Login failed: User with email madhav@gmail.com not found
+2025-01-14T07:30:19.560Z [error]: Login failed: User with email madhav@gmail.com not found
+2025-01-14T07:30:49.664Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:31:18.092Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:36:47.773Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:37:50.361Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:41:45.296Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:41:45.297Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:42:56.648Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:42:56.648Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:44:09.942Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:44:09.943Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:45:44.277Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:45:44.278Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:47:33.988Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:47:33.989Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:48:21.844Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:48:21.845Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:49:19.994Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:49:19.995Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:52:51.789Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:52:51.790Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:54:57.276Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:54:57.278Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:55:17.052Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:55:17.053Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:55:33.300Z [error]: Login failed: User with email vaishanvi@gmail.com not found
+2025-01-14T07:55:33.301Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:56:19.802Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:56:19.803Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:57:06.801Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:57:06.801Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:59:14.885Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:59:14.886Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:59:33.345Z [error]: Login failed: Incorrect password for email madhav@gmail.com
+2025-01-14T07:59:33.346Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T07:59:59.889Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T07:59:59.890Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:00:02.864Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:00:02.864Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:00:14.578Z [error]: [logInController.js] Invalid input "password" is required
+2025-01-14T08:00:29.656Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:00:29.656Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:00:54.001Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:00:54.002Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:07:40.664Z [error]: Login failed: Incorrect password for email vaishnavi@gmail.com
+2025-01-14T08:07:40.666Z [error]: [logInController.js] error in userLogIn Invalid email or password
+2025-01-14T08:10:45.031Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:10:45.031Z [error]: Error creating customer: Validation error
+2025-01-14T08:13:47.489Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:13:47.490Z [error]: Error creating customer: Validation error
+2025-01-14T08:15:24.147Z [error]: [customerService.js] Error creating customer: Customer.create is not a function
+2025-01-14T08:15:24.148Z [error]: Error creating customer: Customer.create is not a function
+2025-01-14T08:16:12.493Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:16:12.493Z [error]: Error creating customer: Validation error
+2025-01-14T08:17:02.034Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:17:02.035Z [error]: Error creating customer: Validation error
+2025-01-14T08:20:14.541Z [error]: [customerService.js] Error creating customer: Validation error
+2025-01-14T08:20:14.542Z [error]: Error creating customer: Validation error
+2025-01-14T10:26:43.128Z [error]: [verifyToken.js] Token verification failed
+2025-01-14T10:39:14.263Z [error]: [courierService.js] Error fetching couriers with customers: puppeteer is not defined
+2025-01-14T10:39:14.263Z [error]: Error fetching couriers with customers: puppeteer is not defined
+2025-01-14T11:46:42.186Z [error]: [courierService.js] Error fetching couriers with customers: browser is not defined
+2025-01-14T11:47:27.155Z [error]: [courierService.js] Error fetching couriers with customers: page.setContent is not a function
+2025-01-14T11:47:40.841Z [error]: [courierService.js] Error fetching couriers with customers: browser.connected is not a function
+2025-01-14T11:48:03.609Z [error]: [courierService.js] Error fetching couriers with customers: page.setContent is not a function
+2025-01-14T11:50:45.598Z [error]: [courierService.js] Error fetching couriers with customers: page.setContent is not a function
+2025-01-16T06:06:35.147Z [error]: [courierService.js] Error fetching couriers with customers: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:06:35.148Z [error]: Error generating PDF report: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:18:48.624Z [error]: [courierService.js] Error fetching couriers with customers: Package is not defined
+2025-01-16T06:18:48.626Z [error]: Error generating PDF report: Package is not defined
+2025-01-16T06:19:03.551Z [error]: [courierService.js] Error fetching couriers with customers: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:19:03.553Z [error]: Error generating PDF report: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-16T06:22:37.061Z [error]: [courierService.js] Error fetching couriers with customers: sequelize is not defined
+2025-01-16T06:22:37.063Z [error]: Error generating PDF report: sequelize is not defined
+2025-01-16T06:24:02.728Z [error]: [courierService.js] Error fetching couriers with customers: Cannot read properties of undefined (reading 'Courier')
+2025-01-16T06:24:02.730Z [error]: Error generating PDF report: Cannot read properties of undefined (reading 'Courier')
+2025-01-16T06:26:02.466Z [error]: [courierService.js] Error fetching couriers with customers: sequelize is not defined
+2025-01-16T06:26:02.468Z [error]: Error generating PDF report: sequelize is not defined
+2025-01-16T06:26:04.818Z [error]: [courierService.js] Error fetching couriers with customers: sequelize is not defined
+2025-01-16T06:26:04.819Z [error]: Error generating PDF report: sequelize is not defined
+2025-01-16T06:26:17.259Z [error]: [courierService.js] Error fetching couriers with customers: Cannot read properties of undefined (reading 'findAll')
+2025-01-16T06:26:17.260Z [error]: Error generating PDF report: Cannot read properties of undefined (reading 'findAll')

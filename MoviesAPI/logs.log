@@ -1,0 +1,5 @@
+2024-12-23T09:33:21.972Z [app.js] info: Server is running on port 3000
+2024-12-23T09:33:26.379Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T09:33:26.503Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T09:33:26.503Z [movieController.js] info: Movies fetched successfully
+2024-12-23T09:40:07.614Z [app.js] info: Server is running on port 3000

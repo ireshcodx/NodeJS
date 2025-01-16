@@ -1,0 +1,47 @@
+[2024-12-18T15:25:48.087] [ERROR] default - error in validation "username" is not allowed to be empty
+[2024-12-18 HH:34:06] ERROR: error in validation "username" is not allowed to be empty
+[2024-12-18 HH:35:33] ERROR: error in validation "conformPassword" must be [ref:password]
+[2024-12-18 15:35:58] ERROR: error in validation "username" is not allowed to be empty
+[2024-12-18 15:39:26] INFO: authentication successfull [object Object]
+[2024-12-18 15:41:07]  ERROR: error in validation "username" is not allowed to be empty
+[2024-12-18 15:41:35]  INFO: authentication successfull [object Object]
+[2024-12-18 15:51] ireshg-ubuntu  ERROR: error in validation "username" is not allowed to be empty
+14522 [2024-12-18 15:52]  ERROR: error in validation "username" is not allowed to be empty
+pId:-14624 [2024-12-18 15:53]  ERROR: error in validation "username" is not allowed to be empty
+pId:-14797 [2024-12-18 15:55] [] ERROR: error in validation "username" is not allowed to be empty
+pId:- 14912 [2024-12-18 15:55] [] [ERROR] error in validation "username" is not allowed to be empty
+pId:- 15625 [2024-12-18 15:57] [] [ERROR] error in validation "username" is not allowed to be empty
+pId:- 16551 [2024-12-18 16:00] [] ERROR error in validation "username" is not allowed to be empty
+[2024-12-18 HH:05] [File:Validation.js] ERROR Error in validation: "username" is not allowed to be empty
+pId :-18505 [2024-12-18 16:09] [File:Validation.js] ERROR error in validation "username" is not allowed to be empty
+pId:- 19289 [2024-12-18 16:12] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty
+pId:- 20245 [2024-12-18 16:17] [File:null] ERROR error in validating "username" is not allowed to be empty
+pId:- 21433 [2024-12-18 16:24] [File:Validation.js] INFO authentication successfull [object Object]
+pId:- 30088 [2024-12-18 17:01] [File:Validation.js] ERROR error in validating "email" with value "iresh" fails to match the required pattern: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.(com|in)$/
+pId:- 30157 [2024-12-18 17:01] [File:Validation.js] INFO authentication successfull [object Object]
+pId:- 31917 [2024-12-18 17:48] [File:Validation.js] INFO authentication successfull [object Object],[object Object],[object Object],[object Object]
+pId:- 32018 [2024-12-18 17:49] [File:Validation.js] INFO authentication successfull [object Object],[object Object],[object Object],[object Object]
+pId:- 32775 [2024-12-18 17:52] [File:Validation.js] INFO authentication successfull [object Object],[object Object],[object Object],[object Object]
+pId:- 32868 [2024-12-18 17:52] [File:Validation.js] INFO authentication successfull [object Object],[object Object],[object Object],[object Object]
+pId:- 32991 [2024-12-18 17:53] [File:Validation.js] INFO authentication successfull [object Object],[object Object],[object Object],[object Object]
+pId:- 33933 [2024-12-18 17:58] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty
+pId:- 34781 [2024-12-18 18:00] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty
+pId:- 45261 [2024-12-18 18:44] [File:Validation.js] ERROR error in validating "email" must be a valid email
+pId:- 45922 [2024-12-18 18:44] [File:Validation.js] ERROR error in validating "password" with value "12345678" fails to match the required pattern: /^[0-9a-zA-Z].{5}$/
+pId:- 46197 [2024-12-18 18:45] [File:Validation.js] ERROR error in validating "phoneNumber" with value "asdqwe123456" fails to match the required pattern: /^[0-9]{10}$/
+pId:- 46345 [2024-12-18 18:45] [File:Validation.js] ERROR error in validating "password" with value "irsh9" fails to match the required pattern: /^[0-9a-zA-Z].{5}$/
+pId:- 16708 [2024-12-19 10:31] [File:Validation.js] INFO authentication successfull "address.state" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 17798 [2024-12-19 10:33] [File:Validation.js] INFO authentication successfull "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 17938 [2024-12-19 10:34] [File:Validation.js] INFO authentication successfull "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 18035 [2024-12-19 10:34] [File:Validation.js] INFO authentication successfull "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 22878 [2024-12-19 10:50] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 24100 [2024-12-19 10:53] [File:Validation.js] ERROR error in validating "address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 25225 [2024-12-19 10:59] [File:Validation.js] ERROR error in validating "email" must be a valid email,"phoneNumber" with value "9887" fails to match the required pattern: /^[0-9]{10}$/,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 28339 [2024-12-19 11:14] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 28384 [2024-12-19 11:14] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 28504 [2024-12-19 11:15] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 28584 [2024-12-19 11:16] [File:Validation.js] ERROR error in validating "address.pinCode" must be a number,"confirmPassword" is not allowed
+pId:- 29454 [2024-12-19 11:17] [File:Validation.js] ERROR error in validating "confirmPassword" is not allowed
+pId:- 29870 [2024-12-19 11:19] [File:Validation.js] ERROR error in validating "password" with value "iresh" fails to match the required pattern: /^[0-9a-zA-Z].{5,}$/
+pId:- 30018 [2024-12-19 11:20] [File:Validation.js] INFO authentication successfull [object Object]
+pId:- 30818 [2024-12-19 11:21] [File:Validation.js] ERROR error in validating "username" is not allowed to be empty,"email" is not allowed to be empty,"phoneNumber" is not allowed to be empty,"password" is not allowed to be empty,"address.country" is not allowed to be empty,"address.state" is not allowed to be empty,"address.city" is not allowed to be empty,"address.pinCode" is not allowed to be empty

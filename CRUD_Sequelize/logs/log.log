@@ -1,0 +1,25 @@
+2025-01-06T09:03:43.272Z [info]: 2025-01-06T09:03:43.272Z [GET] /student/getstudentbyId/2
+2025-01-06T09:03:43.276Z [info]: Executing (default): SELECT `student_id`, `first_name`, `last_name`, `email`, `phone_number`, `date_of_birth`, `department_id`, `hobbies`, `status` FROM `students` AS `Student` WHERE `Student`.`student_id` = '2' AND `Student`.`status` = 0;
+2025-01-06T09:14:01.395Z [info]: Executing (default): SELECT 1+1 AS result
+2025-01-06T09:14:01.397Z [info]: Connected to database
+2025-01-06T09:14:31.280Z [info]: 2025-01-06T09:14:31.280Z [GET] /student/getstudentbyId
+2025-01-06T09:14:37.417Z [info]: 2025-01-06T09:14:37.417Z [GET] /student/getstudentbyId
+2025-01-06T09:14:37.424Z [info]: Executing (default): SELECT `student_id`, `first_name`, `last_name`, `email`, `phone_number`, `date_of_birth`, `department_id`, `hobbies`, `status` FROM `students` AS `Student` WHERE `Student`.`student_id` = 2 AND `Student`.`status` = 0;
+2025-01-06T09:16:56.545Z [info]: 2025-01-06T09:16:56.545Z [POST] /student/getstudentbyId
+2025-01-06T09:17:12.791Z [info]: 2025-01-06T09:17:12.791Z [POST] /student/addstudent
+2025-01-06T09:17:12.799Z [info]: Executing (default): INSERT INTO `students` (`student_id`,`first_name`,`last_name`,`email`,`phone_number`,`date_of_birth`,`department_id`,`hobbies`,`status`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);
+2025-01-06T09:17:19.039Z [info]: 2025-01-06T09:17:19.039Z [GET] /student
+2025-01-06T09:17:19.041Z [info]: Executing (default): SELECT `student_id`, `first_name`, `last_name`, `email`, `phone_number`, `date_of_birth`, `department_id`, `hobbies`, `status` FROM `students` AS `Student` WHERE `Student`.`status` = 0;
+2025-01-06T09:18:32.324Z [info]: 2025-01-06T09:18:32.324Z [POST] /student/updatestudent/10
+2025-01-06T09:18:47.532Z [info]: 2025-01-06T09:18:47.532Z [POST] /student/updatestudent/10
+2025-01-06T09:18:50.048Z [info]: Executing (default): SELECT 1+1 AS result
+2025-01-06T09:18:50.050Z [info]: Connected to database
+2025-01-06T09:18:52.096Z [info]: 2025-01-06T09:18:52.096Z [POST] /student/updatestudent/10
+2025-01-06T09:19:11.683Z [info]: 2025-01-06T09:19:11.683Z [PUT] /student/updatestudent/10
+2025-01-06T09:19:11.692Z [info]: Executing (default): UPDATE `students` SET `first_name`=? WHERE `student_id` = ? AND `status` = ?
+2025-01-06T09:19:17.886Z [info]: 2025-01-06T09:19:17.886Z [GET] /student
+2025-01-06T09:19:17.889Z [info]: Executing (default): SELECT `student_id`, `first_name`, `last_name`, `email`, `phone_number`, `date_of_birth`, `department_id`, `hobbies`, `status` FROM `students` AS `Student` WHERE `Student`.`status` = 0;
+2025-01-06T09:20:56.732Z [info]: 2025-01-06T09:20:56.732Z [GET] /student/deletestudent
+2025-01-06T09:21:32.485Z [info]: 2025-01-06T09:21:32.485Z [DELETE] /student/deletestudent
+2025-01-06T09:21:37.938Z [info]: 2025-01-06T09:21:37.938Z [DELETE] /student/deletestudent
+2025-01-06T09:21:37.941Z [info]: Executing (default): UPDATE `students` SET `status`=? WHERE `student_id` = ? AND `status` = ?

@@ -1,0 +1,198 @@
+2025-01-03T06:41:12.370Z [info]: Connected to database
+2025-01-03T06:45:24.371Z [info]: 2025-01-03T06:45:24.371Z [GET] /student/1
+2025-01-03T06:45:28.197Z [info]: 2025-01-03T06:45:28.197Z [GET] /student
+2025-01-03T06:45:35.916Z [info]: Connected to database
+2025-01-03T06:45:38.493Z [info]: 2025-01-03T06:45:38.493Z [GET] /student
+2025-01-03T06:47:18.530Z [info]: Connected to database
+2025-01-03T06:47:23.766Z [info]: 2025-01-03T06:47:23.766Z [DELETE] /student/9
+2025-01-03T06:47:39.454Z [info]: 2025-01-03T06:47:39.454Z [DELETE] /student/deletestudent/
+2025-01-03T06:47:46.226Z [info]: 2025-01-03T06:47:46.226Z [DELETE] /student/deletestudent/7
+2025-01-03T06:48:12.348Z [info]: 2025-01-03T06:48:12.348Z [GET] /student
+2025-01-03T06:48:30.191Z [info]: 2025-01-03T06:48:30.191Z [DELETE] /student/deletestudent/7
+2025-01-03T06:48:46.471Z [info]: Connected to database
+2025-01-03T06:48:53.471Z [info]: 2025-01-03T06:48:53.471Z [DELETE] /student/deletestudent7
+2025-01-03T06:50:42.850Z [info]: Connected to database
+2025-01-03T06:50:54.588Z [info]: 2025-01-03T06:50:54.588Z [DELETE] /student/deletestudent/7
+2025-01-03T06:51:09.826Z [info]: 2025-01-03T06:51:09.826Z [GET] /student/uodatestudent/1
+2025-01-03T06:56:39.590Z [info]: 2025-01-03T06:56:39.590Z [GET] /student/uodatestudent/9
+2025-01-03T06:57:02.052Z [info]: Connected to database
+2025-01-03T06:57:10.065Z [info]: Connected to database
+2025-01-03T06:57:21.022Z [info]: 2025-01-03T06:57:21.022Z [GET] /student/getstudentbyId/9
+2025-01-03T06:58:23.856Z [info]: 2025-01-03T06:58:23.856Z [PUT] /student/updatestudent/9
+2025-01-03T06:58:49.331Z [info]: Connected to database
+2025-01-03T06:58:52.712Z [info]: 2025-01-03T06:58:52.712Z [PUT] /student/updatestudent/9
+2025-01-03T06:59:23.883Z [info]: 2025-01-03T06:59:23.883Z [DELETE] /student/deletestudent/7
+2025-01-03T06:59:28.391Z [info]: 2025-01-03T06:59:28.391Z [DELETE] /student/deletestudent/9
+2025-01-03T06:59:36.612Z [info]: 2025-01-03T06:59:36.612Z [GET] /student
+2025-01-03T07:01:08.976Z [info]: 2025-01-03T07:01:08.976Z [GET] /student/getstudentbyId/9
+2025-01-03T07:44:21.814Z [info]: 2025-01-03T07:44:21.814Z [GET] /student
+2025-01-03T08:51:20.314Z [info]: Connected to database
+2025-01-03T08:52:08.143Z [info]: 2025-01-03T08:52:08.143Z [PUT] /student/updatestudent/9
+2025-01-03T08:52:08.146Z [error]: 2025-01-03T08:52:08.146Z [app.js] error: error is not defined
+2025-01-03T08:58:04.404Z [info]: Connected to database
+2025-01-03T08:58:09.443Z [info]: 2025-01-03T08:58:09.443Z [PUT] /student/updatestudent/9
+2025-01-03T08:58:09.445Z [error]: 2025-01-03T08:58:09.445Z [app.js] error: error is not defined
+2025-01-03T09:24:38.949Z [info]: Connected to database
+2025-01-03T09:24:48.032Z [info]: 2025-01-03T09:24:48.032Z [PUT] /student/updatestudent/9
+2025-01-03T09:24:48.034Z [error]: 2025-01-03T09:24:48.034Z [app.js] error: error is not defined
+2025-01-03T09:25:14.264Z [info]: 2025-01-03T09:25:14.264Z [PUT] /student/updatestudent/9
+2025-01-03T09:25:34.878Z [info]: 2025-01-03T09:25:34.878Z [PUT] /student/updatestudent/2
+2025-01-03T09:28:19.349Z [info]: Connected to database
+2025-01-03T09:28:27.105Z [info]: 2025-01-03T09:28:27.105Z [PUT] /student/updatestudent/2
+2025-01-03T09:34:49.638Z [info]: 2025-01-03T09:34:49.638Z [PUT] /student/updatestudent/2
+2025-01-03T09:35:08.331Z [info]: 2025-01-03T09:35:08.331Z [PUT] /student/updatestudent/2
+2025-01-03T09:35:08.332Z [error]: 2025-01-03T09:35:08.332Z [app.js] error: error is not defined
+2025-01-03T09:35:38.841Z [info]: 2025-01-03T09:35:38.841Z [PUT] /student/updatestudent/2
+2025-01-03T09:41:40.456Z [info]: 2025-01-03T09:41:40.456Z [PUT] /student/updatestudent/2
+2025-01-03T09:42:00.637Z [info]: 2025-01-03T09:42:00.637Z [PUT] /student/updatestudent/2
+2025-01-03T09:43:31.623Z [info]: Connected to database
+2025-01-03T09:46:16.891Z [info]: 2025-01-03T09:46:16.890Z [PUT] /student/updatestudent/2
+2025-01-03T09:48:17.795Z [info]: 2025-01-03T09:48:17.795Z [PUT] /student/updatestudent/2
+2025-01-03T09:49:01.990Z [info]: Connected to database
+2025-01-03T09:49:05.368Z [info]: 2025-01-03T09:49:05.368Z [PUT] /student/updatestudent/2
+2025-01-03T09:57:33.322Z [info]: Connected to database
+2025-01-03T09:57:41.535Z [info]: 2025-01-03T09:57:41.535Z [PUT] /student/updatestudent/2
+2025-01-03T09:58:19.699Z [info]: 2025-01-03T09:58:19.699Z [GET] /student
+2025-01-03T10:05:31.788Z [info]: Connected to database
+2025-01-03T10:07:04.572Z [info]: 2025-01-03T10:07:04.572Z [GET] /student
+2025-01-03T10:07:33.613Z [info]: 2025-01-03T10:07:33.613Z [PUT] /student/updatestudent/3
+2025-01-03T10:08:07.244Z [info]: Connected to database
+2025-01-03T10:08:11.229Z [info]: 2025-01-03T10:08:11.229Z [PUT] /student/updatestudent/3
+2025-01-03T10:09:36.519Z [info]: 2025-01-03T10:09:36.519Z [PUT] /student/updatestudent/3
+2025-01-03T10:09:41.531Z [info]: 2025-01-03T10:09:41.531Z [GET] /student
+2025-01-03T10:11:54.130Z [info]: Connected to database
+2025-01-03T10:12:48.059Z [info]: 2025-01-03T10:12:48.059Z [PUT] /student/updatestudent/3
+2025-01-03T10:13:36.228Z [info]: Connected to database
+2025-01-03T10:13:38.992Z [info]: 2025-01-03T10:13:38.992Z [PUT] /student/updatestudent/3
+2025-01-03T10:13:49.242Z [info]: 2025-01-03T10:13:49.242Z [GET] /student/getstudentbyId/3
+2025-01-03T10:27:35.203Z [info]: 2025-01-03T10:27:35.203Z [PUT] /student/updatestudent/3
+2025-01-03T10:29:31.455Z [info]: 2025-01-03T10:29:31.454Z [GET] /student
+2025-01-03T10:29:57.332Z [info]: 2025-01-03T10:29:57.332Z [PUT] /student/updatestudent/4
+2025-01-03T10:29:57.334Z [error]: 2025-01-03T10:29:57.334Z [app.js] error: error is not defined
+2025-01-03T10:55:09.463Z [info]: 2025-01-03T10:55:09.463Z [PUT] /student/updatestudent/4
+2025-01-03T10:56:32.901Z [info]: Connected to database
+2025-01-03T10:56:37.467Z [info]: 2025-01-03T10:56:37.467Z [PUT] /student/updatestudent/4
+2025-01-03T10:57:08.902Z [info]: 2025-01-03T10:57:08.902Z [PUT] /student/updatestudent/4
+2025-01-03T10:57:23.315Z [info]: Connected to database
+2025-01-03T10:57:25.867Z [info]: 2025-01-03T10:57:25.867Z [PUT] /student/updatestudent/4
+2025-01-03T11:05:51.621Z [info]: Connected to database
+2025-01-03T11:05:57.581Z [info]: 2025-01-03T11:05:57.581Z [PUT] /student/updatestudent/4
+2025-01-03T11:06:02.210Z [info]: 2025-01-03T11:06:02.210Z [GET] /student
+2025-01-03T11:07:15.481Z [info]: 2025-01-03T11:07:15.481Z [PUT] /student/updatestudent/4
+2025-01-03T11:08:47.217Z [info]: Connected to database
+2025-01-03T11:08:50.062Z [info]: 2025-01-03T11:08:50.062Z [PUT] /student/updatestudent/4
+2025-01-03T11:08:58.200Z [info]: Connected to database
+2025-01-03T11:09:31.420Z [info]: 2025-01-03T11:09:31.420Z [PUT] /student/updatestudent/4
+2025-01-03T11:09:53.044Z [info]: 2025-01-03T11:09:53.044Z [PUT] /student/updatestudent/4
+2025-01-03T11:11:57.806Z [info]: Connected to database
+2025-01-03T11:12:00.283Z [info]: 2025-01-03T11:12:00.283Z [PUT] /student/updatestudent/4
+2025-01-03T11:13:18.262Z [info]: Connected to database
+2025-01-03T11:13:21.177Z [info]: 2025-01-03T11:13:21.177Z [PUT] /student/updatestudent/4
+2025-01-03T11:13:43.956Z [info]: Connected to database
+2025-01-03T11:13:45.976Z [info]: 2025-01-03T11:13:45.976Z [PUT] /student/updatestudent/4
+2025-01-03T11:15:49.370Z [info]: 2025-01-03T11:15:49.370Z [PUT] /student/updatestudent/4
+2025-01-03T11:16:19.589Z [info]: Connected to database
+2025-01-03T11:16:28.233Z [info]: 2025-01-03T11:16:28.233Z [PUT] /student/updatestudent/4
+2025-01-03T11:16:49.268Z [info]: Connected to database
+2025-01-03T11:16:51.195Z [info]: 2025-01-03T11:16:51.195Z [PUT] /student/updatestudent/4
+2025-01-03T11:27:02.624Z [info]: 2025-01-03T11:27:02.623Z [GET] /student
+2025-01-03T11:28:11.189Z [info]: 2025-01-03T11:28:11.189Z [POST] /student/
+2025-01-03T11:28:29.969Z [info]: 2025-01-03T11:28:29.969Z [POST] /student/addstudent
+2025-01-03T11:28:29.971Z [error]: 2025-01-03T11:28:29.971Z [studentController.js] error: Incorrect date value: '2003-01-08T18:30:00.000Z' for column 'date_of_birth' at row 1
+2025-01-03T11:28:40.046Z [info]: 2025-01-03T11:28:40.046Z [POST] /student/addstudent
+2025-01-03T11:28:40.047Z [error]: 2025-01-03T11:28:40.047Z [studentController.js] error: Invalid JSON text: "Invalid value." at position 1 in value for column 'students.hobbies'.
+2025-01-03T11:32:41.321Z [info]: Connected to database
+2025-01-03T11:32:45.848Z [info]: 2025-01-03T11:32:45.848Z [PUT] /student/updatestudent/4
+2025-01-03T11:33:09.876Z [info]: 2025-01-03T11:33:09.876Z [PUT] /student/updatestudent/4
+2025-01-03T11:33:18.096Z [info]: 2025-01-03T11:33:18.096Z [GET] /student
+2025-01-03T11:35:32.739Z [info]: 2025-01-03T11:35:32.739Z [PUT] /student/updatestudent/4
+2025-01-03T11:35:36.433Z [info]: 2025-01-03T11:35:36.433Z [GET] /student
+2025-01-06T04:55:22.650Z [info]: Connected to database
+2025-01-06T04:56:32.653Z [info]: 2025-01-06T04:56:32.653Z [GET] /student
+2025-01-06T04:58:34.217Z [info]: 2025-01-06T04:58:34.217Z [GET] /student/getstudentbyId/3
+2025-01-06T04:58:44.713Z [info]: 2025-01-06T04:58:44.713Z [GET] /student/getstudentbyId/3
+2025-01-06T05:00:09.257Z [info]: 2025-01-06T05:00:09.257Z [DELETE] /student/deletestudent/%224%22
+2025-01-06T05:00:33.037Z [info]: 2025-01-06T05:00:33.037Z [GET] /student
+2025-01-06T06:26:41.018Z [info]: Connected to database
+2025-01-06T06:26:45.442Z [info]: 2025-01-06T06:26:45.442Z [DELETE] /student/deletestudent/%221%22
+2025-01-06T06:26:53.415Z [info]: 2025-01-06T06:26:53.415Z [GET] /student
+2025-01-06T06:27:37.459Z [info]: 2025-01-06T06:27:37.459Z [DELETE] /student/deletestudent/'1'
+2025-01-06T06:27:41.645Z [info]: 2025-01-06T06:27:41.645Z [GET] /student
+2025-01-06T06:35:45.115Z [info]: Connected to database
+2025-01-06T06:36:04.133Z [info]: 2025-01-06T06:36:04.133Z [GET] /student
+2025-01-06T06:36:04.133Z [error]: 2025-01-06T06:36:04.133Z [studentController.js] error: Cannot read properties of undefined (reading 'content-type')
+2025-01-06T06:37:01.902Z [info]: Connected to database
+2025-01-06T06:37:04.568Z [info]: 2025-01-06T06:37:04.568Z [GET] /student
+2025-01-06T06:37:04.574Z [error]: 2025-01-06T06:37:04.574Z [studentController.js] error: Cannot set headers after they are sent to the client
+2025-01-06T06:37:16.731Z [info]: Connected to database
+2025-01-06T06:37:27.659Z [info]: 2025-01-06T06:37:27.659Z [GET] /student
+2025-01-06T06:37:27.665Z [error]: 2025-01-06T06:37:27.665Z [studentController.js] error: Cannot set headers after they are sent to the client
+2025-01-06T06:38:43.657Z [info]: Connected to database
+2025-01-06T06:38:46.668Z [info]: 2025-01-06T06:38:46.668Z [GET] /student
+2025-01-06T06:38:46.668Z [error]: 2025-01-06T06:38:46.668Z [studentController.js] error: object.keys is not a function
+2025-01-06T06:38:59.551Z [info]: Connected to database
+2025-01-06T06:39:02.079Z [info]: 2025-01-06T06:39:02.079Z [GET] /student
+2025-01-06T06:39:35.610Z [info]: 2025-01-06T06:39:35.610Z [GET] /student
+2025-01-06T06:39:35.613Z [error]: 2025-01-06T06:39:35.613Z [studentController.js] error: Cannot set headers after they are sent to the client
+2025-01-06T06:41:44.160Z [info]: Connected to database
+2025-01-06T06:41:46.901Z [info]: 2025-01-06T06:41:46.901Z [GET] /student/getstudentbyId/
+2025-01-06T06:42:11.850Z [info]: 2025-01-06T06:42:11.850Z [GET] /student/getstudentbyId
+2025-01-06T06:42:32.080Z [info]: Connected to database
+2025-01-06T06:42:35.184Z [info]: 2025-01-06T06:42:35.184Z [GET] /student/getstudentbyId
+2025-01-06T06:42:41.809Z [info]: 2025-01-06T06:42:41.809Z [GET] /student/getstudentbyId
+2025-01-06T06:42:54.140Z [info]: 2025-01-06T06:42:54.140Z [GET] /student/getstudentbyId
+2025-01-06T06:49:00.925Z [info]: Connected to database
+2025-01-06T06:50:38.437Z [info]: 2025-01-06T06:50:38.437Z [PUT] /student/updatestudent/4
+2025-01-06T06:50:54.121Z [info]: 2025-01-06T06:50:54.121Z [PUT] /student/updatestudent
+2025-01-06T06:50:54.123Z [error]: 2025-01-06T06:50:54.123Z [app.js] error: error is not defined
+2025-01-06T06:51:09.853Z [info]: Connected to database
+2025-01-06T06:51:12.483Z [info]: 2025-01-06T06:51:12.483Z [PUT] /student/updatestudent
+2025-01-06T06:51:12.485Z [error]: 2025-01-06T06:51:12.485Z [app.js] error: error is not defined
+2025-01-06T06:54:14.588Z [info]: 2025-01-06T06:54:14.588Z [DELETE] /student/deletestudent
+2025-01-06T06:54:19.496Z [info]: 2025-01-06T06:54:19.496Z [GET] /student
+2025-01-06T06:54:19.501Z [error]: 2025-01-06T06:54:19.501Z [studentController.js] error: Cannot set headers after they are sent to the client
+2025-01-06T08:11:47.947Z [info]: Connected to database
+2025-01-06T08:11:52.885Z [info]: 2025-01-06T08:11:52.885Z [GET] /student
+2025-01-06T08:13:22.131Z [info]: 2025-01-06T08:13:22.131Z [GET] /student
+2025-01-06T08:13:22.133Z [error]: 2025-01-06T08:13:22.133Z [studentController.js] error: Cannot set headers after they are sent to the client
+2025-01-06T08:15:25.094Z [info]: Connected to database
+2025-01-06T08:15:28.072Z [info]: 2025-01-06T08:15:28.072Z [GET] /student
+2025-01-06T08:15:36.652Z [info]: 2025-01-06T08:15:36.652Z [GET] /student
+2025-01-06T08:15:36.654Z [error]: 2025-01-06T08:15:36.654Z [studentController.js] error: Cannot set headers after they are sent to the client
+2025-01-06T08:16:13.050Z [info]: Connected to database
+2025-01-06T08:16:16.812Z [info]: 2025-01-06T08:16:16.812Z [GET] /student
+2025-01-06T08:16:24.306Z [info]: 2025-01-06T08:16:24.306Z [GET] /student
+2025-01-06T08:16:28.027Z [info]: 2025-01-06T08:16:28.027Z [GET] /student
+2025-01-06T08:19:12.179Z [info]: 2025-01-06T08:19:12.179Z [GET] /student/getstudentbyId
+2025-01-06T08:19:18.953Z [info]: 2025-01-06T08:19:18.953Z [GET] /student/getstudentbyId
+2025-01-06T08:20:31.623Z [info]: Connected to database
+2025-01-06T08:20:39.713Z [info]: 2025-01-06T08:20:39.713Z [GET] /student/getstudentbyId
+2025-01-06T08:20:46.020Z [info]: 2025-01-06T08:20:46.020Z [GET] /student/getstudentbyId
+2025-01-06T08:42:23.185Z [info]: Connected to database
+2025-01-06T08:42:57.430Z [info]: 2025-01-06T08:42:57.430Z [GET] /student/getstudentbyId
+2025-01-06T08:43:06.426Z [info]: 2025-01-06T08:43:06.426Z [DELETE] /student/deletestudent
+2025-01-06T08:43:12.062Z [info]: 2025-01-06T08:43:12.062Z [DELETE] /student/deletestudent
+2025-01-06T08:43:19.506Z [info]: 2025-01-06T08:43:19.506Z [PUT] /student/updatestudent
+2025-01-06T08:43:19.509Z [error]: 2025-01-06T08:43:19.509Z [app.js] error: error is not defined
+2025-01-06T08:43:59.245Z [info]: 2025-01-06T08:43:59.245Z [PUT] /student/updatestudent
+2025-01-06T08:43:59.246Z [error]: 2025-01-06T08:43:59.246Z [app.js] error: error is not defined
+2025-01-06T08:44:41.648Z [info]: 2025-01-06T08:44:41.648Z [PUT] /student/updatestudent
+2025-01-06T08:44:41.649Z [error]: 2025-01-06T08:44:41.649Z [app.js] error: error is not defined
+2025-01-06T08:46:03.464Z [info]: Connected to database
+2025-01-06T08:46:07.929Z [info]: 2025-01-06T08:46:07.929Z [PUT] /student/updatestudent
+2025-01-06T08:46:07.932Z [error]: 2025-01-06T08:46:07.932Z [app.js] error: error is not defined
+2025-01-06T08:46:45.590Z [info]: 2025-01-06T08:46:45.590Z [PUT] /student/updatestudent
+2025-01-06T08:46:45.591Z [error]: 2025-01-06T08:46:45.591Z [app.js] error: error is not defined
+2025-01-06T08:48:04.348Z [info]: Connected to database
+2025-01-06T08:48:07.869Z [info]: 2025-01-06T08:48:07.869Z [PUT] /student/updatestudent
+2025-01-06T08:48:50.141Z [info]: Connected to database
+2025-01-06T08:49:08.154Z [info]: 2025-01-06T08:49:08.154Z [PUT] /student/updatestudent
+2025-01-06T08:49:33.459Z [info]: 2025-01-06T08:49:33.459Z [PUT] /student/updatestudent
+2025-01-06T08:50:53.439Z [info]: Connected to database
+2025-01-06T08:51:15.977Z [info]: Connected to database
+2025-01-06T08:51:37.709Z [info]: 2025-01-06T08:51:37.709Z [PUT] /student/updatestudent/2
+2025-01-06T08:52:25.985Z [info]: Connected to database
+2025-01-06T08:52:56.056Z [info]: 2025-01-06T08:52:56.056Z [PUT] /student/updatestudent/2
+2025-01-06T08:53:46.101Z [info]: 2025-01-06T08:53:46.101Z [PUT] /student/updatestudent/
+2025-01-06T08:53:50.428Z [info]: 2025-01-06T08:53:50.428Z [GET] /student
+2025-01-09T11:27:00.689Z [info]: Connected to database

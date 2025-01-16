@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies List</title>
+    <link rel="icon" type="image/x-icon" href="./Assets/favicon.png">
+     <link rel="stylesheet" href="./CSS/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-dark">
+    <div class="container mt-5">
+        <h1 class="text-center text-white mb-4">Movies 🍿</h1>
+
+        <div class="mb-5 text-center">
+            <select id="categorySelect" class="form-select w-50 bg-dark-subtle mx-auto text-center">
+                <option value="trendingmovies">Trending Movies</option>
+                <option value="topratedmovies">Top Rated Movies</option>
+                <option value="trendingtvshows">Trending TV Shows</option>
+                <option value="popularmovies">Popular Movies</option>
+            </select>
+        </div>
+
+        
+        <div id="moviesList" class="row justify-content-center gy-4 mb-4">
+            
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./JS/script.js"></script>
+</html>

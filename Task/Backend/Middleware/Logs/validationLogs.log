@@ -1,0 +1,5 @@
+pId:- 213145 [2024-12-20 10:20] [File:Validate.js] INFO authentication successful {"value":{"username":"Yash","email":"yash@gmail.com","password":"yash09"}}
+pId:- 213145 [2024-12-20 10:51] [File:logger.js] INFO authentication successful {"value":{"username":"Iresh","email":"iresh@gmail.com","password":"iresh9"}}
+pId:- 213145 [2024-12-20 10:54] [File:logger.js] INFO authentication successful {"value":{"username":"Iresh","email":"iresh@gmail.com","password":"iresh9"}}
+pId:- 213145 [2024-12-20 10:54] [File:logger.js] INFO authentication successful {"value":{"username":"Iresh","email":"iresh@gmail.com","password":"iresh9"}}
+pId:- 213145 [2024-12-20 11:22] [File:logger.js] INFO authentication successful {"value":{"username":"Yash","email":"iresh@gmail.com","password":"Iresh9"}}

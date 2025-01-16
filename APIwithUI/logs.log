@@ -1,0 +1,953 @@
+2024-12-23T11:30:54.206Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:30:54.206Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:32:09.545Z [app.js] info: Server is running on port 3000
+2024-12-23T11:32:16.253Z [validations.js] error: Validation error: "category" with value "top-rated" fails to match the required pattern: /^[a-zA-Z]+$/
+2024-12-23T11:32:16.254Z [movieController.js] error: Invalid category: "category" with value "top-rated" fails to match the required pattern: /^[a-zA-Z]+$/
+2024-12-23T11:32:31.010Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:32:31.010Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:32:39.596Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:32:39.596Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:33:20.169Z [app.js] info: Server is running on port 3000
+2024-12-23T11:33:22.882Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:33:22.882Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:33:50.181Z [app.js] info: Server is running on port 3000
+2024-12-23T11:33:52.291Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:33:52.291Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:34:05.493Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:34:05.598Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:34:05.598Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:34:07.741Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:34:07.952Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:34:07.952Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:34:52.052Z [app.js] info: Server is running on port 3000
+2024-12-23T11:34:54.730Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:34:54.731Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:34:56.238Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:34:56.327Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:34:56.327Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:36:21.595Z [app.js] info: Server is running on port 3000
+2024-12-23T11:36:24.183Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:36:24.183Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:38:31.736Z [app.js] info: Server is running on port 3000
+2024-12-23T11:38:35.345Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:38:35.346Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:38:37.480Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:38:37.584Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:38:37.584Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:39:06.111Z [app.js] info: Server is running on port 3000
+2024-12-23T11:39:09.126Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:39:09.126Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:39:30.785Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:39:30.873Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:39:30.873Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:39:37.818Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:39:38.118Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:39:38.119Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:39:45.974Z [validations.js] info: Category validated successfully: trending
+2024-12-23T11:39:45.974Z [movieController.js] error: Invalid category type provided
+2024-12-23T11:39:48.440Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:39:48.460Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:39:48.461Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:40:46.414Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:40:46.483Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:40:46.483Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:40:50.987Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:40:51.028Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:40:51.029Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:41:01.681Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:41:01.739Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:41:01.739Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:41:25.186Z [app.js] info: Server is running on port 3000
+2024-12-23T11:41:27.495Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:41:27.587Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:41:27.587Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:41:40.490Z [app.js] info: Server is running on port 3000
+2024-12-23T11:41:42.841Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:41:42.924Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:41:42.924Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:41:48.369Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:41:48.423Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:41:48.423Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:42:18.586Z [app.js] info: Server is running on port 3000
+2024-12-23T11:42:21.079Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:42:21.154Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:42:21.154Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:42:25.554Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:42:25.578Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:42:25.578Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:42:38.488Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:42:38.551Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:42:38.551Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:43:53.610Z [app.js] info: Server is running on port 3000
+2024-12-23T11:44:22.070Z [app.js] info: Server is running on port 3000
+2024-12-23T11:45:33.316Z [app.js] info: Server is running on port 3000
+2024-12-23T11:45:35.945Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:45:36.080Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:45:36.080Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:45:42.083Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:45:42.124Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:45:42.124Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:46:37.186Z [app.js] info: Server is running on port 3000
+2024-12-23T11:46:39.908Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:46:40.429Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:46:40.429Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:47:05.236Z [app.js] info: Server is running on port 3000
+2024-12-23T11:47:08.120Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:47:08.210Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:47:08.210Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:47:10.499Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:47:10.520Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:47:10.520Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:47:12.068Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:47:12.111Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:47:12.112Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:47:14.307Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:47:14.321Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:47:14.321Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:50:17.255Z [app.js] info: Server is running on port 3000
+2024-12-23T11:50:20.502Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:50:20.611Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:50:20.611Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:51:44.933Z [app.js] info: Server is running on port 3000
+2024-12-23T11:51:47.280Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:51:47.396Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:51:47.396Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:52:12.021Z [app.js] info: Server is running on port 3000
+2024-12-23T11:52:15.118Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:52:15.181Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T11:52:15.181Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T11:52:17.505Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:52:17.544Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:52:17.544Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:52:40.519Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:52:40.558Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:52:40.558Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:52:43.732Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T11:52:43.747Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T11:52:43.747Z [movieController.js] info: Movies fetched successfully
+2024-12-23T11:52:45.634Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T11:52:45.648Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T11:52:45.648Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:14:00.122Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:14:00.166Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:14:00.166Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:14:02.291Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:14:02.518Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:14:02.518Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:15:01.694Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:15:01.769Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:15:01.769Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:15:05.344Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:15:05.363Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:15:05.363Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:18:30.416Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:18:30.449Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:18:30.449Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:18:32.268Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:18:32.504Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:18:32.504Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:18:47.516Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:18:47.535Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:18:47.535Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:18:50.621Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:18:50.644Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:18:50.644Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:18:51.940Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:18:51.975Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:18:51.976Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:18:52.152Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:18:52.167Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:18:52.167Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:18:52.333Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:18:52.539Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:18:52.539Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:19:26.508Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:19:26.528Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:19:26.528Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:19:40.035Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:19:40.411Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:19:40.411Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:20:07.957Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:20:07.985Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:20:07.985Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:20:18.870Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:20:18.978Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:20:18.978Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:20:25.544Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:20:25.570Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:20:25.570Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:20:32.434Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:20:32.459Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:20:32.459Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:10.946Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:10.981Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:21:10.981Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:21:17.873Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:17.969Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:17.969Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:43.813Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:43.843Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:43.843Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:45.423Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:45.433Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:45.433Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:46.271Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:46.281Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:46.281Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:46.492Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:46.505Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:46.505Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:46.664Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:46.676Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:46.676Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:46.848Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:46.860Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:46.860Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:47.036Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:47.046Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:47.046Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:47.205Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:21:47.217Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:21:47.217Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:21:51.041Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:21:51.052Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:21:51.052Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:00.748Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:00.768Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:22:00.768Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:22:06.953Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:22:06.983Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:22:06.983Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:22.501Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:22.540Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:22.540Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:23.966Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:23.977Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:23.977Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:24.357Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:24.369Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:24.369Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:24.617Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:24.628Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:24.628Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:24.836Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:24.846Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:24.846Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:25.027Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:25.037Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:25.037Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:25.235Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:25.246Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:25.246Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:22:25.413Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:22:25.425Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:22:25.425Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:24:21.548Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:24:21.594Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:24:21.594Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:24:24.583Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:24:24.604Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:24:24.604Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:24:26.119Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:24:26.150Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:24:26.150Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:24:28.583Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:24:28.596Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:24:28.596Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:24:53.089Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:24:53.109Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:24:53.109Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:24:55.772Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:24:55.801Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:24:55.801Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:25:07.934Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:25:07.963Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:25:07.963Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:25:09.648Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:25:09.661Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:25:09.661Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:25:49.771Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:25:52.073Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:25:54.851Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:25:54.851Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:25:55.098Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:25:55.098Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:26:05.924Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:26:05.949Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:26:05.949Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:27:31.987Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:27:32.035Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:27:32.035Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:27:56.378Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:27:56.397Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:27:56.397Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:27:59.080Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:27:59.101Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:27:59.102Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:28:01.208Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:28:01.235Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:28:01.235Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:28:23.202Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:28:23.232Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:28:23.232Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:28:36.074Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:28:38.010Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:28:39.058Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:28:41.128Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:28:41.128Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:28:41.135Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:28:41.135Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:28:41.177Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:28:41.178Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:28:47.650Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:28:47.767Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:28:47.767Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:29:00.898Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:29:00.924Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:29:00.924Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:29:10.130Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:29:10.176Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:29:10.176Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:29:25.487Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:29:25.833Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:29:25.833Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:29.125Z [app.js] info: Server is running on port 3000
+2024-12-23T12:30:33.696Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:33.788Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:33.789Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:36.165Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:30:36.175Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:30:36.175Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:38.304Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:38.317Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:38.317Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:40.268Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:30:40.280Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:30:40.280Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:41.227Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:41.240Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:41.240Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:41.773Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:41.785Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:41.785Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:42.153Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:42.169Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:42.169Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:52.659Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:52.682Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:30:52.682Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:30:54.325Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:54.350Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T12:30:54.351Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T12:30:54.592Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:54.626Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:54.626Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:54.772Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:54.783Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:54.783Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:30:58.525Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:30:58.536Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:30:58.536Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:00.006Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:00.017Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:00.017Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:00.174Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:00.184Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:00.185Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:00.336Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:00.346Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:00.346Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:00.501Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:00.512Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:00.512Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:00.669Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:00.680Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:00.680Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:00.801Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:00.812Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:00.812Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:02.836Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:31:02.849Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:31:02.849Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:03.829Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:03.839Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:03.839Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:03.991Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:04.001Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:04.001Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:04.165Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:04.178Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:04.178Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:04.271Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:04.283Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:04.283Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:31:07.826Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:31:07.837Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:31:07.837Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:33:49.636Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:33:49.770Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:33:49.770Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:55.416Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:55.739Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:55.739Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:56.820Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:56.830Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:56.831Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:58.083Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:58.091Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:58.091Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:58.253Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:58.269Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:58.269Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:58.427Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:58.435Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:58.435Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:58.566Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:58.575Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:58.575Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:58.726Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:58.734Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:58.734Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:58.868Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:58.876Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:58.876Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:59.008Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:59.016Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:59.016Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:59.155Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:59.164Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:59.164Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:35:59.282Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:35:59.290Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:35:59.290Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:36:01.901Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:36:01.910Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:36:01.910Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:36:04.952Z [app.js] info: Server is running on port 3000
+2024-12-23T12:36:07.248Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:36:07.409Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:36:07.409Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:36:10.385Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:36:10.434Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:36:10.434Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:38:24.726Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:38:24.778Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:38:24.779Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:38:44.298Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:38:44.329Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:38:44.329Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:38:53.066Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:38:53.095Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:38:53.096Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:39:57.604Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:39:57.670Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:39:57.670Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:40:17.869Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:40:17.906Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:40:17.906Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:41:04.951Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:41:05.058Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:41:05.058Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:41:07.431Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:41:07.440Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:41:07.441Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:41:10.008Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:41:10.019Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:41:10.019Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:44:45.553Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:44:45.593Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:44:45.593Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:46:15.092Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:46:15.354Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:46:15.354Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:47:27.042Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:47:27.086Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:47:27.086Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:50:21.039Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:50:21.083Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:50:21.083Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:50:33.092Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:50:33.123Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:50:33.123Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:50:55.451Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:50:55.490Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:50:55.490Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:52:00.484Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:52:00.520Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:52:00.520Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:52:14.080Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:52:14.421Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:52:14.421Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:52:47.958Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:52:48.067Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:52:48.067Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:52:55.987Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:52:56.008Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:52:56.008Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:52:58.929Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:52:58.937Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:52:58.937Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:54:55.939Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:54:55.980Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:54:55.980Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:55:04.999Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T12:55:05.027Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T12:55:05.027Z [movieController.js] info: Movies fetched successfully
+2024-12-23T12:58:48.447Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T12:58:48.828Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T12:58:48.828Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:11:02.974Z [app.js] info: Server is running on port 3000
+2024-12-23T13:11:05.451Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:11:05.740Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:11:05.740Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:11:07.985Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T13:11:07.998Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T13:11:07.998Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:14:37.063Z [app.js] info: Server is running on port 3000
+2024-12-23T13:14:41.021Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:14:41.115Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:14:41.116Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:14:43.380Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-23T13:14:43.681Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-23T13:14:43.681Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:15:03.692Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:15:03.712Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T13:15:03.713Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T13:15:06.224Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:15:06.245Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T13:15:06.245Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T13:15:07.804Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T13:15:07.826Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T13:15:07.826Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T13:15:09.355Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:15:09.387Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:15:09.387Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:15:13.089Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:15:13.102Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:15:13.102Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:15:15.003Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T13:15:15.016Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T13:15:15.016Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:15:18.660Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:15:18.906Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:15:18.906Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:15:20.468Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T13:15:20.482Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T13:15:20.482Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:15:22.164Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-23T13:15:22.177Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-23T13:15:22.177Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:16:09.303Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:16:09.340Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T13:16:09.340Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T13:16:12.730Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:16:12.881Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:16:12.881Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:16:15.588Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-23T13:16:15.628Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-23T13:16:15.629Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:16:44.797Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:16:44.888Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:16:44.888Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:16:52.468Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-23T13:16:52.718Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-23T13:16:52.718Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:21:08.208Z [app.js] info: Server is running on port 3000
+2024-12-23T13:21:13.226Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:21:13.574Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:21:13.574Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:21:15.899Z [validations.js] info: Category validated successfully: popularmovies
+2024-12-23T13:21:16.121Z [fetchData.js] info: API data fetched successfully for url: movie/popular
+2024-12-23T13:21:16.121Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:21:26.435Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:21:26.487Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-23T13:21:26.487Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:21:38.148Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T13:21:38.169Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T13:21:38.169Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T13:21:42.596Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-23T13:21:42.617Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-23T13:21:42.617Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-23T13:21:44.147Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-23T13:21:44.177Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-23T13:21:44.177Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:21:46.843Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-23T13:21:46.856Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-23T13:21:46.856Z [movieController.js] info: Movies fetched successfully
+2024-12-23T13:21:48.963Z [validations.js] info: Category validated successfully: popularmovies
+2024-12-23T13:21:48.975Z [fetchData.js] info: API data fetched successfully for url: movie/popular
+2024-12-23T13:21:48.975Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:13:22.681Z [app.js] info: Server is running on port 3000
+2024-12-24T04:13:30.784Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:13:31.072Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:13:31.073Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:14:04.775Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T04:14:05.005Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T04:14:05.005Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:14:06.943Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-24T04:14:07.189Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-24T04:14:07.189Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:14:08.734Z [validations.js] info: Category validated successfully: popularmovies
+2024-12-24T04:14:09.033Z [fetchData.js] info: API data fetched successfully for url: movie/popular
+2024-12-24T04:14:09.033Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:14:34.606Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:14:34.650Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:14:34.650Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:14:44.231Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T04:14:44.270Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T04:14:44.270Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:16:37.718Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:16:38.026Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:16:38.026Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:16:51.916Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:16:51.950Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:16:51.950Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:17:00.669Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:17:00.704Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-24T04:17:00.704Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-24T04:17:02.833Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:17:02.861Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:17:02.862Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:17:07.460Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:17:07.482Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-24T04:17:07.482Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-24T04:17:10.332Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T04:17:10.373Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T04:17:10.373Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:17:20.297Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:17:20.325Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:17:20.325Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:17:40.960Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T04:17:41.088Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T04:17:41.088Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:17:45.288Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-24T04:17:45.618Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-24T04:17:45.618Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:19:43.095Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:19:43.227Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:19:43.227Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:25.461Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:25.484Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:25.484Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:31.018Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:31.117Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:31.117Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:35.597Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:35.620Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:35.620Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:36.052Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:36.062Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:36.062Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:36.312Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:36.320Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:36.320Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:36.550Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:36.558Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:36.558Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:36.745Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:36.753Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:36.753Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:36.995Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:37.004Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:37.004Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:38.041Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:38.049Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:38.049Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:38.285Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:38.294Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:38.294Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:38.661Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:38.670Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:38.670Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:38.865Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:38.874Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:38.874Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:39.089Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:39.112Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:39.112Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:53.237Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:20:53.354Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:20:53.355Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:20:59.149Z [app.js] info: Server is running on port 3000
+2024-12-24T04:21:01.640Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:01.776Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:01.776Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:21:02.461Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:02.491Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:02.491Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:21:03.011Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:03.042Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:03.042Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:21:07.364Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:07.391Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:07.391Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:21:09.554Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:09.565Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:09.565Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:21:17.934Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:18.024Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:18.024Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:21:26.336Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:26.424Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:26.424Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:21:36.979Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:21:37.003Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:21:37.003Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:06.253Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:06.304Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:06.304Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:19.278Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:19.319Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-24T04:22:19.319Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-24T04:22:38.980Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:39.012Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:39.012Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:54.911Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:54.932Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-24T04:22:54.932Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-24T04:22:57.317Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:57.344Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:57.344Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:57.886Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:57.896Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:57.896Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:58.169Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:58.178Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:58.178Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:58.380Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:58.389Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:58.389Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:58.565Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:58.574Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:58.574Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:58.793Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:58.815Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:58.815Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:58.972Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:58.981Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:58.981Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:22:59.144Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:22:59.153Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:22:59.153Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:23:19.827Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:23:19.865Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:23:19.865Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:23:22.083Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:23:22.094Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:23:22.094Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:23:22.341Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:23:22.359Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:23:22.359Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:23:33.121Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:23:33.143Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:23:33.143Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:23:48.778Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:23:48.801Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:23:48.801Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:19.005Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:19.028Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:19.028Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:20.556Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:20.565Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:20.565Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:20.932Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:20.941Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:20.941Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:21.157Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:21.166Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:21.166Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:23.690Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:23.701Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:23.701Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:30.855Z [app.js] info: Server is running on port 3000
+2024-12-24T04:24:32.523Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:32.706Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:32.707Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:41.934Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:41.978Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:41.978Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:56.418Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:56.442Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:56.442Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:57.846Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:57.855Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:57.856Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:58.097Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:58.108Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:58.108Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:58.345Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:58.354Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:58.354Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:58.519Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:58.528Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:58.528Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:58.688Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:58.697Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:58.697Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:58.851Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:58.861Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:58.862Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:59.031Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:59.042Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:59.042Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:59.231Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:59.240Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:59.240Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:24:59.355Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:24:59.363Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:24:59.363Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:25:02.127Z [app.js] info: Server is running on port 3000
+2024-12-24T04:25:03.939Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:25:04.104Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:25:04.104Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:25:15.642Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:25:15.672Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:25:15.672Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:25:27.703Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:25:27.951Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:25:27.952Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:25:49.544Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:25:49.668Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:25:49.668Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:25:55.364Z [app.js] info: Server is running on port 3000
+2024-12-24T04:25:56.986Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:25:57.069Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:25:57.070Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:26:04.964Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:26:05.001Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:26:05.001Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:26:29.594Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:26:29.695Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:26:29.696Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:16.862Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:16.898Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:16.898Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:33.032Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:33.057Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:33.057Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:51.284Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:51.425Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:51.425Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:56.563Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:56.674Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:56.674Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:57.979Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:58.032Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:58.032Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:58.225Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:58.263Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:58.263Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:58.433Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:58.471Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:58.472Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:58.680Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:58.718Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:58.718Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:29:58.855Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:29:58.893Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:29:58.893Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:30:21.542Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:30:21.587Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:30:21.587Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:30:51.489Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:30:51.524Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:30:51.524Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:31:18.653Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:31:18.686Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:31:18.686Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:31:31.896Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:31:31.934Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:31:31.935Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:31:39.215Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:31:39.341Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:31:39.341Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:31:45.360Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:31:45.385Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:31:45.385Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:31:52.875Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:31:52.898Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:31:52.898Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:32:19.234Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:32:19.257Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:32:19.257Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:32:28.069Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:32:28.165Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:32:28.165Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:32:38.446Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:32:38.489Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:32:38.489Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:35:25.992Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:35:26.357Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:35:26.357Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:35:37.484Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T04:35:37.520Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T04:35:37.520Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:36:18.058Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T04:36:18.382Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T04:36:18.382Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:36:23.521Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-24T04:36:23.808Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-24T04:36:23.808Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:36:26.033Z [validations.js] info: Category validated successfully: popularmovies
+2024-12-24T04:36:26.046Z [fetchData.js] info: API data fetched successfully for url: movie/popular
+2024-12-24T04:36:26.046Z [movieController.js] info: Movies fetched successfully
+2024-12-24T04:36:29.512Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-24T04:36:29.524Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-24T04:36:29.525Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:11:25.263Z [app.js] info: Server is running on port 3000
+2024-12-24T05:11:26.900Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:11:27.636Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:11:27.637Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:11:32.104Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T05:11:32.135Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T05:11:32.135Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:13:12.714Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:13:12.762Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:13:12.762Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:13:31.986Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:13:32.007Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-24T05:13:32.007Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-24T05:13:33.782Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:13:33.812Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:13:33.812Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:18:45.585Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:18:45.620Z [fetchData.js] error: Error fetching API: fetch failed
+2024-12-24T05:18:45.620Z [movieController.js] error: Error in  fetching movies: fetch failed
+2024-12-24T05:18:48.411Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T05:18:48.438Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T05:18:48.438Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:23:16.524Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:23:16.825Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:23:16.825Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:33:19.287Z [app.js] info: Server is running on port 3000
+2024-12-24T05:35:26.435Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:35:26.838Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:35:26.839Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:35:45.487Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T05:35:45.595Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T05:35:45.595Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:35:53.561Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:35:53.604Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:35:53.604Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:36:10.103Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T05:36:10.129Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T05:36:10.129Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:36:11.928Z [validations.js] info: Category validated successfully: trendingtvshows
+2024-12-24T05:36:12.137Z [fetchData.js] info: API data fetched successfully for url: trending/tv/day
+2024-12-24T05:36:12.137Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:36:14.288Z [validations.js] info: Category validated successfully: popularmovies
+2024-12-24T05:36:14.304Z [fetchData.js] info: API data fetched successfully for url: movie/popular
+2024-12-24T05:36:14.304Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:36:33.377Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:36:33.421Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:36:33.421Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:36:50.258Z [validations.js] info: Category validated successfully: trendingmovies
+2024-12-24T05:36:50.296Z [fetchData.js] info: API data fetched successfully for url: trending/movie/day
+2024-12-24T05:36:50.296Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:37:07.617Z [validations.js] info: Category validated successfully: topratedmovies
+2024-12-24T05:37:07.653Z [fetchData.js] info: API data fetched successfully for url: movie/top_rated
+2024-12-24T05:37:07.653Z [movieController.js] info: Movies fetched successfully
+2024-12-24T05:37:59.098Z [validations.js] error: Validation error: "category" length must be at least 3 characters long
+2024-12-24T05:37:59.098Z [movieController.js] error: Invalid category: "category" length must be at least 3 characters long
+2024-12-24T05:38:06.951Z [validations.js] info: Category validated successfully: abc
+2024-12-24T05:38:06.951Z [movieController.js] error: Invalid category type provided

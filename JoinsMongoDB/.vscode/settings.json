@@ -1,0 +1,6 @@
+{
+    "animations.Scrolling": "Fade",
+    "animations.Focus-Dimming-Mode": "Full Window",
+    "animations.Active": "Indent",
+    "animations.Command-Palette": "Slide"
+}
